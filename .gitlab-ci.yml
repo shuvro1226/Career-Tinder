@@ -1,0 +1,18 @@
+image: node:8
+
+stages:
+  - deploy
+cache:
+  paths:
+    - node_modules/
+
+deploy_production:
+  stage: deploy
+  environment: Production
+  only:
+    - dev
+  script:
+    - npm install -g firebase-tools
+    - npm install
+    - CI=false npm run build
+    - firebase deploy --only hosting --non-interactive --token "$FIREBASE_DEPLOY_KEY" -P "career-tinder"

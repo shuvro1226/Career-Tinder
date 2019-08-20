@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "career-tinder",
+  "private_key_id": "6bcd554a8e563aa85480f2ef468e2cb8c05986cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEP6JtYcy3DbIo\nlmU22iX2yLY3nqV0ky5G3JocBIY+8rahHp/WNBaIYpXJcCbg3anuaXqBUVuzSqet\nxvASSJ20fXbPAkNxYa+p/dC6YMbdqrrGF5vfuOW/hWQRg2Jx2FbtwMVgKGsH/XPv\ndsGoD5f/pnkUKq/AEdO4rArQT5w5Of50KhaBB1pZIS+WwNuNI2bGI+rZhsH6NG7d\nMgvVS1irF8khiggqxSdkfcAb98r8MLYi7mvY9IrB3IDywZFMkdJ4KZQnZ36zdn5F\nKtFIx/+iye26FWylySezSxyiNf4XuOUvdX+4m7u6K8yX+97WOC3p661JXQ08ktgA\nv9s2P6O3AgMBAAECggEAJxICLOOtJX6BCyqSAP8iUsT33g/kIdbRfkMaHVzbOzoI\nGQCnUrZxC/sQlheRbfBDjhcK0CcZ6hKBWowCLKmvWAkod6McOTz5A49oGEr/HI+K\neriljD9b4irU1tXA6ihnehMIWJIDaQZRKAoNGP/tw3Rpo5WyArup2pjJ2FoZIJ0s\npq/7G/aTUkQdWqMlp841YqL+kxPMS9FG0ZccYjnK/EgVR8zUexlGjlJzAAk86Gio\nEfXPWCn4l2BEZbC+d/2a0eWM3H3axGRO9HXWRP8KfSSdGUuUeqNpUxPGrZGSveGD\nYXeGDglPBvrXmpG+0wlInLYAvwuSio6hPm7grzAVWQKBgQD/NSj1lBu6vc5qUDR0\nCtCjwQJQLPSiB/Sy+aCBzjbrw+jvqCyGr7QNd5+maK7ZBWjjlKSl2m/TEC4Ssmio\nnOo4E5ElBnS5stJTjkcTYTr6QtRM2HgOoU8xRrwWbGPDzAQjTQDt4+RRxLGHIv8v\nemWW8nuaFWHJTRNtlvkoDbB5zwKBgQDE250Tx9+AjOdG1dt/xVmYiN3PkeOmo7nP\njSkjbMKacOiYv3o0ijV5kGVALTjvk8OLrI4qN4KX8OvgiFAdozk9p/SgVh2vP4si\nSrmpMDq2egsHoF9mZCYQyNojBC+YnOkrMFddKwK3ceJ8DZbgLdbuyd3c7nWbqCJZ\nZBz9L4x5mQKBgHJwmClnfPfEXWd3B85xexWzWyIwxpJSFvyay8rped9HPpEZTL4o\n1Ail98Vbc+yFbH+BDEQDK9nti3t+3Uee9binrZJ4zqbm9UHaryyVkSjgButetpd4\n5lYmbflwKVyHg+OAiEYkxyGTnjgHDX9w11VU7vAtXmgyU9/0r02ytcwpAoGBAKVs\nZvLYYtiDj1XXIDyeekvTt5FV5xeBPgNLe+Zo3p8pgkvZm7fK7GTbEjp7xfyNDyWw\nO0b+np9PtOdZpPlC0DcfjFGwDAHYQ/LtGFc0UCJHLD2cZo6EWfiAz83dFqIIOWgx\nlziTjBTbfpcAVGjOHG9M80NUnz/Oag70MegQrNsBAoGAC82UqnD9d4wCN+mvovzj\nLQAp525URzcAEECFBu370MRQEbvMmWWocD/0mw0sVLxTq/nw1iwv7vQtC6680THp\nzU0AdBwzyX0Me35z838cDHuWYLFQu1/zi/qMa/Bo8rsgS08e5Cs7gJ/R1ka2gB4h\nFHKFFbO2gSycSMYpArb+xM8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "career-tinder@appspot.gserviceaccount.com",
+  "client_id": "101216654355807816777",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/career-tinder%40appspot.gserviceaccount.com"
+}

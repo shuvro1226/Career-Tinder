@@ -1,0 +1,74 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+
+.App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+/* Custom styles */
+
+#root .container-fluid {
+    padding: 0px;
+}
+
+.view {
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/91.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+}
+
+.navbar {
+    transition: background .5s ease-in-out, padding .5s ease-in-out;
+}
+
+.top-nav-collapse {
+    background: #424f95 !important;
+}
+
+@media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+        background: #424f95 !important;
+    }
+}
+
+.form-label {
+    color: #333 !important;
+    font-weight: bold;
+}
+
+.login-form,
+.fp-form,
+.empr-form {
+    padding: 0 10px;
+}
+
+.login-form button,
+.fp-form button,
+.empr-form button {
+    margin: 0;
+}

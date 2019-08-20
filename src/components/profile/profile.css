@@ -1,0 +1,102 @@
+.profile-form .form-group label,
+.work-experience-form .form-group label {
+    color: #333 !important;
+}
+
+.profile-form .form-group>label,
+.work-experience-form .form-group>label {
+    font-weight: bold;
+    width: 100%;
+}
+
+.datepicker .md-form {
+    margin: 0;
+}
+
+.work-experiences-tag i {
+    cursor: pointer;
+}
+
+.work-experiences-tag.badge.badge-info {
+    padding: 10px;
+    width: 100%;
+}
+
+.work-experiences-tag span {
+    white-space: normal;
+}
+
+.btn-circle {
+    width: 40px;
+    height: 40px;
+    padding: 6px 0px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 32px;
+}
+
+.navlink_button {
+    background-color: #14789d;
+    color: white;
+}
+
+.thumbs_button {
+    background-color: #5AB85C;
+    color: white;
+}
+
+.edit_button {
+    background-color: #12789C;
+    color: white;
+}
+
+.delete_button {
+    background-color: #FF2D55;
+    color: white;
+}
+
+.group_button {
+    background-color: #FF9500;
+    color: white;
+}
+
+.profile-form {
+    padding: 0 10px;
+}
+
+.profile-form button {
+    margin: 0;
+}
+
+.work-experience-label {
+    width: auto !important;
+    margin-right: 10px;
+}
+
+.no-space-break{
+    white-space:nowrap;
+  }
+
+@media (max-width: 768px) {
+    .card.job-ad.text-body.shadow.rounded {
+        margin: 0 10px 10px;
+    }
+    .job-seeker-wrapper b {
+        color: #1e698d !important;
+        font-weight: normal;
+    }
+    .job-seeker-wrapper .job-ad {
+        background: rgba(255, 255, 255, 0.7);
+        margin: 12px 12px 0;
+    }
+    .job-seeker-wrapper .wishlist-selector {
+        line-height: 24px;
+    }
+    .job-ad .card-body .fas {
+        width: 20px;
+    }
+    .job-ad {
+        margin-bottom: 10px;
+    }
+}

@@ -1,0 +1,113 @@
+.job-ads-wrapper b {
+    color: #1e698d !important;
+    font-weight: normal;
+}
+
+.job-ads-wrapper .job-ad {
+    background: rgba(255, 255, 255, 0.7);
+    margin: 12px 12px 0;
+}
+
+.job-ads-wrapper .wishlist-selector {
+    line-height: 24px;
+}
+
+.job-ad .card-body .fas {
+    width: 20px;
+}
+
+.job-ad {
+    box-shadow: none;
+}
+
+.jobs-heading {
+    font-weight: bold;
+    line-height: 2.7;
+}
+
+.job-ad-admin-wrapper {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #fff;
+    margin: 0 10px 20px;
+}
+
+.job-ad-heading {
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+    font-size: 20px;
+    padding: 10px 10px;
+    margin-bottom: 0;
+}
+
+.job-ad-links {
+    padding: 12px;
+}
+
+.job-ad-action {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.job-ad-create-floater {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 99999;
+}
+
+.card-buttons {
+    width: 50%;
+    display: inline-block;
+}
+
+.card-buttons .btn,
+.job-ad-action .btn {
+    border-radius: 0px;
+}
+
+.bonus-offers-tag i {
+    cursor: pointer;
+}
+
+.bonus-offers-tag.badge.badge-info {
+    padding: 10px;
+    width: 100%;
+}
+
+.bonus-offers-tag span {
+    white-space: normal;
+}
+
+.job-ad-wrapper .card-header {
+    font-size: 1.2rem;
+}
+
+.page-wrapper .demo__card.shadow {
+    box-shadow: 0 8px 5px rgba(0, 0, 0, .07)!important;
+}
+
+.job-details-sections label {
+    margin: 10px 0 2px;
+}
+
+@media (max-width: 768px) {
+    .page-wrapper .demo__card {
+        width: calc(100% - 60px);
+    }
+    .employer-rec-card .demo__card {
+        top: 42px;
+        height: calc(100vh - 250px);
+        overflow: auto;
+        overflow-x: hidden;
+    }
+    .employer-rec-card .demo__card .job-ad {
+        margin: 4px;
+    }
+    .seeker-ads-card .demo__card {
+        height: calc(100vh - 220px);
+        overflow: auto;
+        overflow-x: hidden;
+    }
+}
